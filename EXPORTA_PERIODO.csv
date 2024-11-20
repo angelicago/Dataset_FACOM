@@ -1,0 +1,65 @@
+COD_DISCIPLINA;NME_DISCIPLINA;COD_PERIODO;DSC_PERIODO;TPO_DISCIPLINA
+GSI002;Introdução à Programação de Computadores;1;Primeiro;Obrigatória
+GSI001;Empreendedorismo em Informática;1;Primeiro;Obrigatória
+GSI003;Introdução aos Sistemas de Informação;1;Primeiro;Obrigatória
+GSI004;Programação Funcional;1;Primeiro;Obrigatória
+GSI005;Lógica para Computação;1;Primeiro;Obrigatória
+GSI006;Estrutura de Dados 1;2;Segundo;Obrigatória
+GSI007;Matemática 1;2;Segundo;Obrigatória
+GSI008;Sistemas Digitais;2;Segundo;Obrigatória
+GSI009;Profissão em Sistemas de Informação;2;Segundo;Obrigatória
+GSI010;Programação Lógica;2;Segundo;Obrigatória
+GSI011;Estrutura de Dados 2;3;Terceiro;Obrigatória
+GSI012;Matemática 2;3;Terceiro;Obrigatória
+GSI013;Arquitetura e Organização de Computadores;3;Terceiro;Obrigatória
+GSI014;Matemática para Ciência da Computação;3;Terceiro;Obrigatória
+GSI015;Programação Orientada a Objetos 1;3;Terceiro;Obrigatória
+GSI016;Bancos de Dados 1;4;Quarto;Obrigatória
+GSI017;Estatística;4;Quarto;Obrigatória
+GSI018;Sistemas Operacionais;4;Quarto;Obrigatória
+GSI019;Programação para Internet;4;Quarto;Obrigatória
+GSI020;Programação Orientada a Objetos 2;4;Quarto;Obrigatória
+GSI021;Bancos de Dados 2;5;Quinto;Obrigatória
+GSI022;Matemática Financeira e Análise de Investimentos;5;Quinto;Obrigatória
+GSI023;Redes de Computadores;5;Quinto;Obrigatória
+GSI024;Organização e Recuperação da Informação;5;Quinto;Obrigatória
+GSI025;Modelagem de Software;5;Quinto;Obrigatória
+GSI026;Gestão Empresarial;6;Sexto;Obrigatória
+GSI027;Otimização;6;Sexto;Obrigatória
+GSI028;Sistemas Distribuídos;6;Sexto;Obrigatória
+GSI029;Contabilidade e Análise de Balanços;6;Sexto;Obrigatória
+GSI030;Engenharia de Software;6;Sexto;Obrigatória
+GSI031;Economia;7;Sétimo;Obrigatória
+GSI032;Fundamentos de Marketing;7;Sétimo;Obrigatória
+GSI033;Gerência de Projetos de Tecnologia da Informação;7;Sétimo;Obrigatória
+GSI034;Projeto e Desenvolvimento de Sistemas de Informaçã;7;Sétimo;Obrigatória
+FACOM31701;Trabalho de Conclusão de Curso I;7;Sétimo;Obrigatória
+GSI039;Trabalho de Conclusão de Curso 1;7;Sétimo;Obrigatória
+GSI035;Auditoria e Segurança da Informação;8;Oitavo;Obrigatória
+GSI036;Direito e Legislação;8;Oitavo;Obrigatória
+GSI037;Interação Humano-Computador;8;Oitavo;Obrigatória
+GSI038;Projeto e Desenvolvimento de Sistemas de Informaçã;8;Oitavo;Obrigatória
+FACOM31802;Trabalho de Conclusão de Curso II;8;Oitavo;Obrigatória
+GSI040;Trabalho de Conclusão de Curso 2;8;Oitavo;Obrigatória
+GSI041;Análise de Algoritmos;7;Sétimo;Optativa
+GSI042;Bioinformática;8;Oitavo;Optativa
+GSI045;Computação Gráfica;7;Sétimo;Optativa
+GSI046;Computação Móvel;8;Oitavo;Optativa
+GSI047;Criptografia;7;Sétimo;Optativa
+GSI050;Inteligência Artificial;8;Oitavo;Optativa
+GSI051;Inteligência Artificial Aplicada aos Negócios;7;Sétimo;Optativa
+GSI055;Mineração de Dados;8;Oitavo;Optativa
+GSI058;Processamento Digital de Imagens;7;Sétimo;Optativa
+GSI059;Programação Paralela e Distribuída;8;Oitavo;Optativa
+GSI064;Resolução de Problemas;7;Sétimo;Optativa
+GSI066;Teoria da Computação;8;Oitavo;Optativa
+GSI067;Teoria dos Grafos;7;Sétimo;Optativa
+GSI072;Tópicos Especiais de Engenharia de Software;8;Oitavo;Optativa
+GSI077;Tópicos Especiais de Redes de Computadores;7;Sétimo;Optativa
+GSI078;Tópicos Especiais de Segurança da Informação;8;Oitavo;Optativa
+GSI079;Tópicos Especiais em Algoritmos;7;Sétimo;Optativa
+GSI080;Tópicos Especiais em Computação 1;8;Oitavo;Optativa
+GSI081;Tópicos Especiais em Computação 2;7;Sétimo;Optativa
+GSI082A;Tópicos Especiais em Computação 3: Agrupamento de ;8;Oitavo;Optativa
+GSI085;Estágio Curricular;5;Quinto;Obrigatória
+GSI300;Complementação de Estudos de Estrutura de Dados 1;7;Sétimo;Optativa
